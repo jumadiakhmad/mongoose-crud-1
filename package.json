@@ -1,0 +1,29 @@
+{
+  "name": "mongoose-crud-1",
+  "version": "1.0.0",
+  "description": "Mongoose Crud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jumadiakhmad/mongoose-crud-1.git"
+  },
+  "keywords": [
+    "Mongose",
+    "Crud",
+    "backEnd"
+  ],
+  "author": "Jumadi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jumadiakhmad/mongoose-crud-1/issues"
+  },
+  "homepage": "https://github.com/jumadiakhmad/mongoose-crud-1#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "mongoose": "^4.11.4",
+    "morgan": "^1.8.2"
+  }
+}
